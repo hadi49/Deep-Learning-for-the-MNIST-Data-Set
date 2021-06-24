@@ -1,0 +1,2 @@
+# Deep-Learning-for-the-MNIST-Data-Set
+I have implemented, in MATLAB, an artificial neural network (ANN) for handwritten digit recognition using the MNIST data set. This deep learning project involved training the network, tuning hyperparameters, testing the network whilst simultaneously documenting the steps taken to produce a report and create a recorded audio-video presentation showcasing the ANN.
