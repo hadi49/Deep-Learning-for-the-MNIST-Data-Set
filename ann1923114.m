@@ -2,7 +2,7 @@ function [Yn, On, Yt, Ot] = ann1923114(N_ep, lr, data, bp,U,V,W,A,B,C,D)
 %
 
 %
-% MA2647: Artificial Neural Network, project code (MNIST data).
+% Artificial Neural Network, project code (MNIST data).
 %
 % Usage:
 %    [Yn On Yt Ot] = ann09demo(N_ep, lr, data, bp, gfx, Nh)
